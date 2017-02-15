@@ -1,0 +1,179 @@
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\ApplicationInsights.config
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\csc.exe
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\vbc.exe
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Vidly.dll.config
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Vidly.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Vidly.pdb
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Antlr3.Runtime.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\EntityFramework.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Newtonsoft.Json.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Owin.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Helpers.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Mvc.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Optimization.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Razor.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.WebPages.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\WebGrease.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Helpers.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Mvc.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Optimization.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.Razor.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.WebPages.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Newtonsoft.Json.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\EntityFramework.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Roly\Projects\MVC\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+D:\Roly\Projects\MVC\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\Roly\Projects\MVC\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\ApplicationInsights.config
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Vidly.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Owin.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnotationsToCustomerName.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateCustomersTable.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingNameToMembershipTypeTable.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNameColumn.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNameFromYearlyToAnnualy.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDayColumn.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateBirthDayColumn.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingMoviesAndGenreTablesToTheDatabase.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulatingGenreTable.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulatingMoviesTable.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateDatesInMovies.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddColumnNumberInStockToMoviesTable.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulatingColumnNumberInStockToMoviesTable.resources

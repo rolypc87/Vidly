@@ -1,0 +1,22 @@
+﻿@model Vidly.Models.Customer
+@{
+    ViewBag.Title = Model.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Name</h2>
+<div>
+    <ul>
+        <li>
+            <p>Membership Type: @Model.MembershipType.Name</p>
+        </li>
+        @if (Model.BirthDay != null)
+        {
+            var BirthDay = Convert.ToDateTime(Model.BirthDay);
+            <li>
+                <p>Birthday: @BirthDay.ToString("MMMMMMMMMMM") @BirthDay.Day @BirthDay.Year</p>
+            </li>
+        }
+    </ul>
+</div>
+
