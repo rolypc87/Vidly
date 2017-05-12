@@ -177,3 +177,13 @@ C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateDatesInMovies.resources
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddColumnNumberInStockToMoviesTable.resources
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulatingColumnNumberInStockToMoviesTable.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRequiresToMoviesTable.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.ChangingDataTypeToDateTimeInCustomerModel.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\AutoMapper.xml
