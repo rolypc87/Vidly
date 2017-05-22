@@ -5,7 +5,7 @@
 }
 
 <h2>Customers</h2>
-    <table id ="customers" class="table table-bordered table-hover">
+    <table id ="tblCustomers" class="table table-bordered table-hover">
         <thead>
         <tr>
             <th>Customer</th>
@@ -20,7 +20,7 @@
 {
 	<script>
 		$(document).ready(function() {
-			var table = $("#customers").DataTable({
+			var table = $("#tblCustomers").DataTable({
 				ajax: {
 					url: "/api/customers",
 					dataSrc: ""
@@ -44,7 +44,7 @@
 				]
 			});
 
-			$("#customers").on("click",
+			$("#tblCustomers").on("click",
 				".js-delete",
 				function() {
 					var button = $(this);
