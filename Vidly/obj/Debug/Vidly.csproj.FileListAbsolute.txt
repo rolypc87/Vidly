@@ -187,3 +187,5 @@ C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\AutoMapper.dll
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\bin\AutoMapper.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
