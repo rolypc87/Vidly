@@ -189,3 +189,4 @@ C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\MVC5\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
